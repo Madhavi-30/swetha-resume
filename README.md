@@ -8,7 +8,7 @@ ATS-friendly resumes for **Swetha Gali**, available in two role-focused versions
 
 ## 1. Junior Python Developer
 
-- **[Download PDF »](Swetha_Gali_Resume.pdf?raw=true)**
+- **[Download PDF »](Swetha_Gali_Resume.pdf?raw=true)** &nbsp;•&nbsp; **[Download Word (.docx) »](Swetha_Gali_Resume.docx?raw=true)**
 
 ![Python Developer resume preview](resume_preview.png)
 
@@ -16,7 +16,7 @@ ATS-friendly resumes for **Swetha Gali**, available in two role-focused versions
 
 ## 2. Software Engineer — Java Full Stack Developer
 
-- **[Download PDF »](Swetha_Gali_Resume_SoftwareEngineer.pdf?raw=true)**
+- **[Download PDF »](Swetha_Gali_Resume_SoftwareEngineer.pdf?raw=true)** &nbsp;•&nbsp; **[Download Word (.docx) »](Swetha_Gali_Resume_SoftwareEngineer.docx?raw=true)**
 
 ![Software Engineer resume preview](resume_se_preview.png)
 
@@ -26,12 +26,12 @@ ATS-friendly resumes for **Swetha Gali**, available in two role-focused versions
 
 | File | Description |
 |------|-------------|
-| `Swetha_Gali_Resume.pdf` | Junior Python Developer resume |
-| `Swetha_Gali_Resume_SoftwareEngineer.pdf` | Software Engineer / Java Full Stack resume |
+| `Swetha_Gali_Resume.pdf` / `.docx` | Junior Python Developer resume (PDF + editable Word) |
+| `Swetha_Gali_Resume_SoftwareEngineer.pdf` / `.docx` | Software Engineer / Java Full Stack resume (PDF + editable Word) |
 | `resume_preview.png` | Preview image (Python Developer) |
 | `resume_se_preview.png` | Preview image (Software Engineer) |
-| `build_resume.py` | Generator for the Python Developer resume |
-| `build_resume_se.py` | Generator for the Software Engineer resume |
+| `build_resume.py` / `build_resume_se.py` | Generators for the PDF resumes |
+| `build_docx.js` | Generator for the Word (.docx) resumes |
 
 ## Regenerate the PDFs
 
